@@ -1,1 +1,10 @@
 h3{ background-color: aqua;}
+}
+.section-description ul{
+  display: flex;
+  list-style: none;
+
+}
+.section-description li{
+  padding: 10px 15px;
+}
